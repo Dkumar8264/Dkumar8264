@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Deepak Kumar 👋<br><br>🎓 2nd Year BE Student – AI & ML @ BMS Institute of Technology, Bengaluru<br>💻 Full-Stack Developer | MERN Stack | Python<br>🚀 Building real-world projects and deploying them live
+# Hi, I'm Deepak Kumar 👋<br><br>🎓 3rd Year BE Student – AI & ML @ BMS Institute of Technology, Bengaluru<br>💻 Full-Stack Developer | MERN Stack | Python<br>🚀 Building real-world projects and deploying them live
 
 
 ## 🌐 Socials:
